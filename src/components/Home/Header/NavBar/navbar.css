@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #047aed;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav li {
+  color: #fff;
+  padding: 1rem;
+  margin: 0 5px;
+}
+
+.navbar li:hover {
+  border-bottom: 2px #fff solid;
+  cursor: pointer;
+}
